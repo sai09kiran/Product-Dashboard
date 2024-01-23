@@ -1,0 +1,10 @@
+
+.list{
+    display: flex;
+    widows: 100%;
+
+}
+
+.listcontainor{
+    flex: 6;
+}
